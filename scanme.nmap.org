@@ -1,0 +1,2 @@
+# Nmap 7.60 scan initiated Mon Jul 13 23:01:01 2026 as: nmap --script vuln -sV -oG scanme.nmap.org
+# Nmap done at Mon Jul 13 23:01:12 2026 -- 0 IP addresses (0 hosts up) scanned in 10.82 seconds
