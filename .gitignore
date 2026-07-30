@@ -1,3 +1,14 @@
 .guides/assessmentsAnswers.json
 .guides/bashtests/bash_history.log
 .guides/bashtests/shell_output.log
+# Ignore all files
+*
+
+# Allow directories to be scanned
+!*/
+
+# Allow .sh files
+!*.sh
+
+# Allow the .gitignore file itself
+!.gitignore
